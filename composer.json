@@ -1,0 +1,14 @@
+{
+    "name": "mkh/ecommerce",
+    "description": "Ecommerce platform using PHP",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "license": "None",
+    "authors": [
+        {
+            "name": "Mkh-Shimul",
+            "email": "mkhshimul7@gmail.com"
+        }
+    ]
+}
